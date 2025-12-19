@@ -5,7 +5,7 @@ Python 3.8 or higher
 VS Code / Terminal
 
 2)Clone the Repository
-git clone https://github.com/your-username/Personal_Finance_Manager.git
+git clone https://github.com/314109142646/Personal_Finance_Manager.git
 cd Personal_Finance_Manager
 
 3)Run the Application
