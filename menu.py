@@ -1,0 +1,11 @@
+def show_menu():
+    print("\n============================")
+    print(" PERSONAL FINANCE MANAGER ")
+    print("============================")
+    print("1. Add New Expense")
+    print("2. View All Expenses")
+    print("3. View Category-wise Summary")
+    print("4. Generate Monthly Report")
+    print("5. Searcgh Expenses")
+    print("6. Backup Data")
+    print("7.Exit")
